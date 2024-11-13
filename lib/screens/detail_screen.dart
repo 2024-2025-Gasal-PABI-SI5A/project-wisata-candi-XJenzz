@@ -148,7 +148,7 @@ class DetailScreen extends StatelessWidget {
                     ),
                     Text(
                       candi.description,
-                    )
+                    ),
                   ],
                 ),
               ),
@@ -181,7 +181,7 @@ class DetailScreen extends StatelessWidget {
                     const SizedBox(
                       height: 4,
                     ),
-                    Text(
+                    const Text(
                       'Tap untuk memperbesar',
                       style: TextStyle(fontSize: 12, color: Colors.black54),
                     ),
